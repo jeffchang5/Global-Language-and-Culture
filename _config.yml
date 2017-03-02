@@ -2,8 +2,8 @@
 title:               "Global Language &amp; Culture Strategies"
 tagline:             "a LLC"
 description:
-baseurl:            #"/blog"
-url:                #""
+baseurl:            "/"
+url:                ""
 github:
   url:               ""
 author:
