@@ -2,10 +2,10 @@
 title:               "Global Language &amp; Culture Strategies"
 tagline:             "a LLC"
 description:
-baseurl:            "https://jeffchang5.github.io/Global-Language-and-Culture/"
-url:                ""
+baseurl:            #"https://jeffchang5.github.io/Global-Language-and-Culture/"
+url:                #""
 github:
-  url:               ""
+  url:               "https://jeffchang5.github.io/Global-Language-and-Culture/"
 author:
   name:              "Cristen Colleen"
   email:             "GlobalLanguageAndCulture@gmail.com"
